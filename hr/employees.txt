@@ -1,0 +1,5 @@
+# This file contains HR employee records.
+
+Name: John Smith | Role: HR Manager | ID: EMP001
+Name: Sarah Jones | Role: Recruiter | ID: EMP002
+Name: Mike Brown | Role: HR Assistant | ID: EMP003

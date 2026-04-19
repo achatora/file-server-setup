@@ -1,0 +1,5 @@
+# Budget Information
+
+Q1 Budget: $50,000 | Spent: $43,200 | Remaining: $6,800
+Q2 Budget: $55,000 | Spent: $12,500 | Remaining: $42,500
+Operating Costs: $8,000/month
