@@ -1,0 +1,8 @@
+# Creating Departmental Groups and Users
+
+1. Created 3 groups hr, finance & engineering
+2. Created 3 users alice, bob & charlie 
+3. Added alice to "hr" group
+4. Added bob to "finance" group
+5. Added charlie to "engineering" group
+
