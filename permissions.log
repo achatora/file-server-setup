@@ -1,0 +1,31 @@
+# Changing group ownership (chown)
+
+## changed group ownership for dir hr/ and everthing inside it to "hr"
+1. sudo chown -R :hr ~/file-server-setup/hr/
+
+## changed group ownership for dir finance/ and everthing inside it to "finance"
+2. sudo chown -R :hr ~/file-server-setup/finance/
+
+## changed group ownership for dir engineering/ and everthing inside it to "engineering"
+3. sudo chown -R :hr ~/file-server-setup/engineering
+
+4. shared/ is already owned by me (owner): intended
+
+
+# Setting Directory and File Permissions (chmod)
+
+## user: rwx, group (hr): rw-, others: ---
+## permissions set for dir hr/ and everything inside it 
+1. sudo chmod -R 760 ~/file-server-setup/hr/ 
+
+## user: rwx, group (finance): rw-, others: ---
+## permissions set for dir finance/ and everything inside it 
+2. sudo chmod -R 760 ~/file-server-setup/finance/
+
+## user: rwx, group (engineering): rw-, others: ---
+## permissions set for dir finance/ and everything inside it 
+3. sudo chmod -R 760 ~/file-server-setup/engineering/
+
+## user: rwx, group: r--, others: r--
+## permissions set for dir finance/ and everything inside it 
+4. sudo chmod -R 744 ~/file-server-setup/shared/
