@@ -5,18 +5,14 @@ A simulated Linux file server environment demonstrating directory structure, use
 
 ## Structure
 ~/file-server-setup/
-|
-|___hr/
-|    |__ employees.txt
-|
-|___finance/
-|    |__ budget.txt
-|
-|___engineering/
-|    |__ enginerring.txt
-|
-|___shared/
-     |__ announcements.txt
+├── hr/
+│   └── employees.txt
+├── finance/
+│   └── budget.txt
+├── engineering/
+│   └── servers.txt
+└── shared/
+    └── announcements.txt
 
 ## Users and Groups
 | User    | Group       |
