@@ -4,15 +4,7 @@
 A simulated Linux file server environment demonstrating directory structure, user/group management, and file permission hardening.
 
 ## Structure
-~/file-server-setup/
-├── hr/
-│   └── employees.txt
-├── finance/
-│   └── budget.txt
-├── engineering/
-│   └── servers.txt
-└── shared/
-    └── announcements.txt
+~/file-server-setup/hr/employees.txt, finance/budget.txt, engineering/engineering.txt, shared/announcements.txt 
 
 ## Users and Groups
 | User    | Group       |
