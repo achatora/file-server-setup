@@ -14,10 +14,10 @@ A simulated Linux file server environment demonstrating directory structure, use
 | charlie | engineering |
 
 ## Permissions
- hr/ -> (chmod 760) : hr group can read/write, others no access    
- finance/ -> (chmod 760) : finance group can read/write, others no access 
- engineering/ -> (chmod 760) : engineering group can read/write, others no access 
- shared/ -> (chmod 744) : owner can read/write, everyone else read only 
+hr/ -> (chmod 760) : hr group can read/write, others no access    
+finance/ -> (chmod 760) : finance group can read/write, others no access 
+engineering/ -> (chmod 760) : engineering group can read/write, others no access 
+shared/ -> (chmod 744) : owner can read/write, everyone else read only 
 
 ## Commands Used
 ```bash
