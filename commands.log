@@ -1,0 +1,37 @@
+# COMMANDS USED
+
+# Navigating
+ls
+ls -la
+pwd
+whoami
+cd ~
+cd ..
+su -
+cat
+ehco
+
+# Users & Groups
+sudo useradd -s -m 
+sudo usermod -aG
+sudo groupadd 
+sudo userdel
+sudo passwd
+groups
+
+# Files and Directories 
+mkdir -p
+touch
+nano
+mv
+
+# Permissions
+sudo
+chmod -R
+chown -R
+
+# git
+git add .
+git commit -m "..."
+git push
+
